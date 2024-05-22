@@ -1,0 +1,122 @@
+[
+  {
+      "id": 1,
+      "name": "Spaghetti Carbonara",
+      "ingredients": ["spaghetti", "eggs", "parmesan cheese", "bacon", "black pepper"],
+      "instructions": "Boil spaghetti. Cook bacon. Mix eggs and cheese. Combine all with pepper."
+  },
+  {
+      "id": 2,
+      "name": "Chicken Alfredo",
+      "ingredients": ["fettuccine", "chicken breast", "butter", "heavy cream", "parmesan cheese"],
+      "instructions": "Cook fettuccine. Sauté chicken. Make Alfredo sauce. Combine all."
+  },
+  {
+      "id": 3,
+      "name": "Beef Tacos",
+      "ingredients": ["ground beef", "taco seasoning", "taco shells", "lettuce", "cheese", "salsa"],
+      "instructions": "Cook beef with seasoning. Assemble tacos with beef, lettuce, cheese, and salsa."
+  },
+  {
+      "id": 4,
+      "name": "Margherita Pizza",
+      "ingredients": ["pizza dough", "tomato sauce", "mozzarella cheese", "basil"],
+      "instructions": "Spread sauce on dough. Add cheese and basil. Bake until crust is golden."
+  },
+  {
+      "id": 5,
+      "name": "Caesar Salad",
+      "ingredients": ["romaine lettuce", "Caesar dressing", "croutons", "parmesan cheese"],
+      "instructions": "Toss lettuce with dressing. Top with croutons and cheese."
+  },
+  {
+      "id": 6,
+      "name": "Grilled Cheese Sandwich",
+      "ingredients": ["bread", "butter", "cheddar cheese"],
+      "instructions": "Butter bread. Place cheese between slices. Grill until golden brown."
+  },
+  {
+      "id": 7,
+      "name": "Pancakes",
+      "ingredients": ["flour", "milk", "egg", "baking powder", "sugar", "butter"],
+      "instructions": "Mix dry ingredients. Add milk and egg. Cook on griddle. Serve with butter."
+  },
+  {
+      "id": 8,
+      "name": "Tomato Soup",
+      "ingredients": ["tomatoes", "onion", "garlic", "vegetable broth", "cream", "basil"],
+      "instructions": "Sauté onion and garlic. Add tomatoes and broth. Simmer and blend. Stir in cream."
+  },
+  {
+      "id": 9,
+      "name": "Beef Stroganoff",
+      "ingredients": ["beef", "mushrooms", "onion", "sour cream", "beef broth", "egg noodles"],
+      "instructions": "Cook beef and onions. Add mushrooms and broth. Stir in sour cream. Serve over noodles."
+  },
+  {
+      "id": 10,
+      "name": "Chocolate Chip Cookies",
+      "ingredients": ["flour", "butter", "sugar", "brown sugar", "eggs", "chocolate chips"],
+      "instructions": "Cream butter and sugars. Add eggs and flour. Stir in chips. Bake until golden."
+  },
+  {
+      "id": 11,
+      "name": "Lasagna",
+      "ingredients": ["lasagna noodles", "ground beef", "ricotta cheese", "mozzarella cheese", "tomato sauce"],
+      "instructions": "Layer noodles, sauce, beef, and cheese. Bake until bubbly."
+  },
+  {
+      "id": 12,
+      "name": "Greek Salad",
+      "ingredients": ["cucumber", "tomatoes", "feta cheese", "olives", "red onion", "olive oil", "oregano"],
+      "instructions": "Chop vegetables. Toss with feta, olives, oil, and oregano."
+  },
+  {
+      "id": 13,
+      "name": "BBQ Chicken Wings",
+      "ingredients": ["chicken wings", "BBQ sauce", "salt", "pepper"],
+      "instructions": "Season wings. Bake and coat with BBQ sauce."
+  },
+  {
+      "id": 14,
+      "name": "Baked Salmon",
+      "ingredients": ["salmon fillets", "lemon", "dill", "olive oil", "salt", "pepper"],
+      "instructions": "Season salmon with lemon, dill, oil, salt, and pepper. Bake until done."
+  },
+  {
+      "id": 15,
+      "name": "Vegetable Stir-Fry",
+      "ingredients": ["broccoli", "carrots", "bell peppers", "soy sauce", "ginger", "garlic"],
+      "instructions": "Sauté vegetables with garlic and ginger. Add soy sauce. Serve over rice."
+  },
+  {
+      "id": 16,
+      "name": "Omelette",
+      "ingredients": ["eggs", "milk", "cheese", "ham", "bell pepper"],
+      "instructions": "Beat eggs with milk. Cook in skillet with fillings. Fold and serve."
+  },
+  {
+      "id": 17,
+      "name": "French Toast",
+      "ingredients": ["bread", "eggs", "milk", "cinnamon", "vanilla extract"],
+      "instructions": "Dip bread in egg mixture. Cook on griddle until golden."
+  },
+  {
+      "id": 18,
+      "name": "Shrimp Scampi",
+      "ingredients": ["shrimp", "garlic", "butter", "lemon", "white wine", "parsley"],
+      "instructions": "Sauté garlic in butter. Add shrimp, lemon, and wine. Cook until shrimp are done."
+  },
+  {
+      "id": 19,
+      "name": "Minestrone Soup",
+      "ingredients": ["onion", "carrots", "celery", "tomatoes", "beans", "pasta", "spinach"],
+      "instructions": "Cook vegetables. Add tomatoes, beans, and broth. Simmer with pasta and spinach."
+  },
+  {
+      "id": 20,
+      "name": "Cheeseburger",
+      "ingredients": ["ground beef", "buns", "cheddar cheese", "lettuce", "tomato", "onion", "ketchup"],
+      "instructions": "Form patties and grill. Assemble burgers with toppings."
+  }
+]
